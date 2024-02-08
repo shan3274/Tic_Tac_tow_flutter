@@ -1,16 +1,3 @@
-# tic_tac_toc
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-09 at 02 09 19](https://github.com/shan3274/Tic_Tac_tow_flutter/assets/60656100/3740db5e-d3b3-472c-bef3-d260ca9e663b)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-09 at 02 09 25](https://github.com/shan3274/Tic_Tac_tow_flutter/assets/60656100/b125276f-0829-420b-8d4c-99da61b6ac64)
+![Simulator Screenshot - iPhone 15 Pro Max - 2024-02-09 at 02 09 30](https://github.com/shan3274/Tic_Tac_tow_flutter/assets/60656100/a6c03a71-3338-49e2-b3ba-d9cfbb1f030b)
